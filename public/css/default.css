@@ -1,4 +1,12 @@
 body {
-    font-family: sans-serif;
-    text-align: center;
+    background-color: #ffec5f;
+    font-family: Arial, sans-serif;
 }
+
+
+.navbar {
+    background-color: #ffec5f ;
+}
+.dropdown-menu {
+     background-color: #ffec5f; 
+    }
