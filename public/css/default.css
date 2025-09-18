@@ -1,20 +1,14 @@
 body {
     background-color: #ffec5f;
-    font-family: Arial, sans-serif;
-}
-
-.navbar {
-    background-color: #ffec5f;
-}
+}  
 
 .dropdown-menu {
-    background-color: #ffec5f; 
+background-color:
+#ffec5f;
 }
-
 .carousel {
-    background-color: #000000; 
+    background-color: #000000;
 }
-
 .carousel-item img {
     margin: auto;
 }
