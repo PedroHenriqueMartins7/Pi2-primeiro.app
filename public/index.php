@@ -89,36 +89,40 @@ require '../vendor/autoload.php';
     </button>
 </div>
 
-<main class="container - 3">
+<main class="container mt-3">
     <div class="row">
         <div class="col">
-            <img class="card-img-top" src="public/img/hamburger-cartoon-w358.png" alt="card image cap">
-            <div class="card-body">
-                <p class="card-text">some quick example text to build on the card title and make up the bulk of the card´s contente.</p>
+            <div class="card text-white bg-warning">
+                <img class="card-img-top" src="public/img/hamburger-cartoon-w358.png" alt="card image cap">
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card´s content.</p>
+                </div>
             </div>
         </div> 
-    </div>
+
         <div class="col">
-            <div class="card text-white bg-warning ">
+            <div class="card text-white bg-warning">
                 <img class="card-img-top" src="public/img/hotdog-cartoon-w358.png" alt="card image cap">
                 <div class="card-body">
-                    <p class="card-text">some quick example text to build on the card title and make up the bulk of the card´s contente.</p>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card´s content.</p>
                 </div>
             </div>
         </div>
+
         <div class="col">
-            <div class="card text-white bg-warning ">
+            <div class="card text-white bg-warning">
                 <img class="card-img-top" src="public/img/potato-cartoon-w358.png" alt="card image cap">
                 <div class="card-body">
-                    <p class="card-text">some quick example text to build on the card title and make up the bulk of the card´s contente.</p>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card´s content.</p>
                 </div>
             </div>
         </div>
+
         <div class="col">
-            <div class="card text-white bg-warning ">
+            <div class="card text-white bg-warning">
                 <img class="card-img-top" src="public/img/snacks-cartoon-w358.png" alt="card image cap">
                 <div class="card-body">
-                    <p class="card-text">some quick example text to build on the card title and make up the bulk of the card´s contente.</p>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card´s content.</p>
                 </div>
             </div>
         </div>
@@ -142,7 +146,7 @@ require '../vendor/autoload.php';
         
 
 
-<script src = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" /></script>
+<script src = "https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" ></script>
 
 
 </body>
